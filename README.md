@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello! I'm Ishani :relaxed:
 
-<!--
-**ishanivix/ishanivix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+___
 
-Here are some ideas to get you started:
+#### I'm a public sector Data Scientist obssessed with Data Visualisation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In this space, I will be posting up my journey in Data Visualisation as a Data Scientist. I want to put all my musings up, to experiment with the most efficient ways to communicate to non-technical audiences using data. And also to challenge myself because that's fun too :sunny:
+
+#### Without further ado, here are my list of musings:
+- :speech_balloon: Microsoft visuals beat Python and R visuals (when communicating to business stakeholders)
+- :grey_question: More to come . . .
+
+___
+--- Stay tuned for more of my DataViz experiments!
+
