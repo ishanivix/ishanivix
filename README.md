@@ -2,7 +2,7 @@
 
 ___
 
-#### I'm a public sector Data Scientist obssessed with Data Visualisation.
+#### I'm a public sector Data Scientist obsessed with Data Visualisation.
 
 In this space, I will be posting up my journey in Data Visualisation as a Data Scientist. I want to put all my musings up, to experiment with the most efficient ways to communicate to non-technical audiences using data. And also to challenge myself because that's fun too :sunny:
 
