@@ -2,12 +2,12 @@
 
 ___
 
-#### I'm a public sector Data Scientist obsessed with Data Visualisation.
+#### I'm a public sector Data Scientist obsessed with data visualisation.
 
-In this space, I will be posting up my journey in Data Visualisation as a Data Scientist. I want to put all my musings up, to experiment with the most efficient ways to communicate to non-technical audiences using data. And also to challenge myself because that's fun too :sunny:
+In this space, I will be posting up my journey in data visualisation as a Data Scientist. I want to put all my musings up, to experiment with the most efficient ways to communicate to non-technical audiences using data. And also to challenge myself because that's fun too :sunny:
 
 #### Without further ado, here are my list of musings:
-- :speech_balloon: Microsoft visuals beat Python and R visuals (when communicating to business stakeholders)
+- :speech_balloon: . . .
 - :grey_question: More to come . . .
 ___
 
